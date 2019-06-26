@@ -26,7 +26,7 @@ A sample bank application demonstrating the transfer of funds between accounts
 ## Assumptions and Improvements
 1) The application starts on the port 8090, therefore any other application must not be running on this port.
 
-2) Although the application demonstrate the createion/transfer of funds for any banking application. For the sake of simplicity, account      creation is kept to minimal.
+2) Although the application demonstrate the createion/transfer of funds for any banking application. For the sake of simplicity, account      creation is kept to minimal. Account, for this assignment is an individual entity. It is not associated with any Customer.
 
 3) No authentication/authorization is added.
 
