@@ -20,7 +20,7 @@
 		<jetty.version>9.4.19.v20190610</jetty.version>
 		<jersey.version>2.28</jersey.version>
 		<jaxb.version>2.3.1</jaxb.version>		
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<share.plugin.version>1.6</share.plugin.version>
 		<surefire.plugin.version>2.21.0</surefire.plugin.version>
 	</properties>
